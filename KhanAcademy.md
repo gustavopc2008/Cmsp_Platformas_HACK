@@ -14,6 +14,3 @@ javascript:alert("%E2%80%80\n\n⌊ CMSP Plataformas Hacks INICIADO! ⌉\n\nAprov
 
 ---
 
-<div align="center">
-  <a href="https://i.imgur.com/xc5CuOC.gif"><img width="30%" src="https://i.imgur.com/UQTwYYK.png"/>
-</div>
