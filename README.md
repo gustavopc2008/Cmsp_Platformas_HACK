@@ -11,9 +11,8 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks/blob/Main/CMSP.md"><img width="20%" alt="CMSP" title="CMSP" src="https://i.imgur.com/9RYlSj5.png"/></a>
-    &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/DarkMod3/CMSP-Plataformas-Hacks/blob/Main/KhanAcademy.md"><img width="20%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/vOqofAR.png"/></a>
+
+<a href="https://github.com/gustavopc2008/Cmsp_Platformas_HACK/blob/main/KhanAcademy.md"><img width="20%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/vOqofAR.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/gustavopc2008/Cmsp_Platformas_HACK/blob/main/SPeak.md"><img width="20%" alt="SPeak" title="SPeak" src="https://i.imgur.com/OzNkCvc.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
